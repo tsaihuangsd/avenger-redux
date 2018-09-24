@@ -1,0 +1,1 @@
+export { avengersReducer } from './avengersReducer';
